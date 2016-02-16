@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JMSQueueTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JMSQueueTest_jar</output-path>
+    <root id="archive" name="JMSQueueTest.jar">
+      <element id="module-output" name="JMSQueueTest" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jms_lib/jms.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jms_lib/tibjms.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../jms_lib/tibjmsadmin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
